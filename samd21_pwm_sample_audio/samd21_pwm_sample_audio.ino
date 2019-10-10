@@ -1,5 +1,7 @@
-// Based on code from https://forum.arduino.cc/index.php?topic=346731.0
-// By MartinL
+// PWM based on code from MartinL in
+// https://forum.arduino.cc/index.php?topic=346731.0
+// Sample playback based on 
+// https://github.com/arduino-libraries/AudioZero/blob/master/src/AudioZero.cpp
 
 #include "forward_u8_22050.h"
 
