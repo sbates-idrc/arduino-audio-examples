@@ -1,3 +1,6 @@
+// Based on
+// https://github.com/arduino-libraries/AudioZero/blob/master/src/AudioZero.cpp
+
 #include "forward_u8_22050.h"
 
 byte* audioData;
